@@ -1,6 +1,6 @@
-# AchiveApp - Habit & Task Tracker
+# AchiveApp 
 
-A mobile application built with React Native and Expo for tracking habits, tasks, and achievements.
+A mobile application built with React Native and Expo for tracking habits, tasks, and Share achievements.
 
 ## Features
 - Habit tracking with progress visualization
