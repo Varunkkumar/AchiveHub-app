@@ -31,6 +31,7 @@ AchieveHub is a comprehensive mobile application designed to help users track th
 - Personalized settings (week start day, reminders)
 - Achievement feed with social interactions
 
+📸 Want to see the app in action? Check out our [ScreenShots.md](ScreenShots.md) for demo videos and screenshots!
 
 ## Prerequisites
 - Node.js (v18+ recommended)
