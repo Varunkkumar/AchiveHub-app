@@ -1,4 +1,4 @@
-# AchiveHub - Achievement Tracking & Productivity App
+# AchiveHub v1.0.0- Achievement Tracking & Productivity App
 
 ![icon](https://github.com/user-attachments/assets/72b42d8e-c3fb-4843-8c8e-b8b06bc45dc9)
  
