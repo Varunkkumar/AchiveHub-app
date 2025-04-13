@@ -7,31 +7,31 @@ AchieveHub is a comprehensive mobile application designed to help users track th
 
 ## ✨ Key Features
 
-### 🎯 Achievement Tracking
+###  Achievement Tracking
 - Create and categorize achievements (Awards, Personal Goals, etc.)
 - Pin important achievements
 - Social features (likes and comments)
 - Timeline view of accomplishments
 
-### 📝 Task Management
+###  Task Management
 - Priority-based task organization (High/Medium/Low)
 - Due date tracking
 - Progress visualization
 - Today's tasks overview
 
-### 🔄 Habit Formation
+###  Habit Formation
 - Daily/Weekly habit tracking
 - Streak counter
 - Visual progress calendar
 - Habit completion statistics
 
-### 👤 User Experience
+###  User Experience
 - Clean, intuitive interface
 - Light/Dark theme support
 - Personalized settings (week start day, reminders)
 - Achievement feed with social interactions
 
-📸 Want to see the app in action? Check out our [ScreenShots.md](ScreenShots.md) for demo videos and screenshots!
+ Want to see the upcoming v2 of app in action? Check out our [ScreenShots.md](ScreenShots.md) for demo videos and screenshots!
 
 ## Prerequisites
 - Node.js (v18+ recommended)
